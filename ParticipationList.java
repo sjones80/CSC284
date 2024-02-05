@@ -1,5 +1,7 @@
 import java.util.ArrayList;
 
+import Students.Student;
+
 public class ParticipationList {
 
    public static void main(String[] args) {
